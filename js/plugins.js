@@ -121,6 +121,6 @@ jQuery(function ($) {
  * MAILCHIMP
  */
 $('#mc-form').ajaxChimp({ 
-    url: 'http://doelit.us10.list-manage.com/subscribe/post?u=b02e4f21e264536eff4820875&amp;id=4d57faf2cb' 
+    url: 'http://francescozanti.us15.list-manage.com/subscribe/post?u=8f969c5db754ba7d22cec0162&amp;id=ed7dfe3762' 
     /* Replace Your AjaxChimp Subscription Link */
 });
