@@ -27,7 +27,7 @@
 // -------------------------------------------------------------
 
 $('.countdown').downCount({
-    date: '15/10/2017 12:00:00',
+    date: '08/15/2017 09:00:00',
     offset: +10
 }, function () {
     alert('WOOT WOOT, done!');
@@ -46,8 +46,8 @@ jQuery(function ($) {
 
     map = new GMaps({
         el: '#map-wrapper',
-        lat: 23.475719,
-        lng: 91.137101,
+        lat: 44.488228,
+        lng: 10.711261,
         scrollwheel:false,
         zoom: 16,
         zoomControl : true,
@@ -60,8 +60,8 @@ jQuery(function ($) {
 
     var image = '';
     map.addMarker({
-        lat: 23.475719,
-        lng: 91.137101,
+        lat: 44.488228,
+        lng: 10.711261,
         icon: image,
         animation: google.maps.Animation.DROP,
         verticalAlign: 'bottom',
